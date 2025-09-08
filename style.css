@@ -21,7 +21,7 @@ body {
   text-align: center;
   backdrop-filter: blur(6px);
   width: 95%;
-  max-width: 900px;
+  max-width: 500px;
 }
 
 h1 {
